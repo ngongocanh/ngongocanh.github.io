@@ -1,0 +1,12 @@
+---
+title: "Monetary Policy Has a Long-Lasting Impact on Credit: Evidence from 91 VAR Studies"
+collection: publications
+permalink: /publication/monetarycredit
+excerpt: 'This paper summarises research of monetary policy impact on credit activity using vector autoregression models.'
+date: 2024-02-17
+venue: 'GitHub Journal of Bugs'
+paperurl: 'https://www.cnb.cz/export/sites/cnb/en/economic-research/.galleries/research_publications/cnb_wp/cnbwp_2023_19.pdf'
+citation: 'Bajzík, J., Janků, J., Malovaná, S., Moravcová, K., & Ngo, N. A. (2023). Monetary Policy Has a Long-Lasting Impact on Credit: Evidence from 91 VAR Studies. Czech National Bank, Economic Research Division.'
+---
+
+We synthesized 3,175 semi-elasticity estimates (454 impulse responses) of credit to monetary policy rate changes from 91 vector autoregression studies. Monetary policy tightening consistently yields a negative and long-lasting response in both credit volume and credit growth. Several factors contribute to notable heterogeneity of effect sizes, including publication selectivity and researchers' choice of estimation design. Publication selectivity significantly exaggerates the mean reported estimate because insignificant results are underreported. Additionally, studies using Bayesian methods and including house prices report a smaller decline in credit, while studies with sign restrictions show a more pronounced drop compared to those using recursive identification.
