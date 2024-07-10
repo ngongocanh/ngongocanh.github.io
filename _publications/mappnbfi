@@ -1,0 +1,12 @@
+---
+title: "Does Macroprudential Policy Leak?: Evidence from Non-bank Credit Intermediation in EU Countries"
+collection: publications
+permalink: /publication/mappnbfi
+excerpt: 'We examine whether macroprudential policy actions affect shadow bank lending.'
+date: 2024-10-01
+venue: 'Economic Modelling'
+paperurl: 'We examine whether macroprudential policy actions affect shadow bank lending.'
+citation: 'Hodula, M., & Ngo, N. A. (2024). Does macroprudential policy leak? Evidence from shadow bank lending in EU countries. <i>Economic Modelling</i>, 132, 106657.'
+---
+
+We examine whether macroprudential policy actions affect shadow bank lending. We use a large dataset covering 23 European Union countries and synthesize a narrow measure of shadow banking focused on capturing credit intermediation by non-banks. To address the endogeneity bias inherent to modelling of the effects of macroprudential policy on the financial sector, we consider a novel index of the macroprudential authority’s strength in pursuing its goals and use it to instrument for a macroprudential policy variable in an IV estimation framework. We robustly demonstrate that following a macroprudential policy tightening, shadow bank lending increases. We harness the cross-sectional dimension of our data to show that the effect applies especially to low-capitalized banking sectors, where macroprudential policy is expected to be more binding, leading to credit reallocation from banks to non-banks.
