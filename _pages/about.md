@@ -16,6 +16,8 @@ I am an economist with a background in quantitative research and policy analysis
 
 My biggest strength is the ability to combine analytical and critical approach with thorough knowledge of administrative processes and project management skills. It means that when you give me a problem to solve, I will provide an in-depth evidence-based analysis, explain all the options and their pros and cons and execute the desired solution.
 
+My research centers around macroprudential policy, financial stability and non-bank financial intermediation. I am particularly interested in policy interactions and their impacts for the real economy.
+
 I was fortunate enough to land a research job at the [Czech National Bank](https://www.cnb.cz/en/)  only in my first year of the PhD which improved my skills in policy-relevant research, academic writing and econometric modelling. 
 
 As a PhD student, I have obtained some teaching experience, mainly in economics courses for Bachelor students. I have also been involved in various research grants and projects, both as an active contributor and a project manager/coordinator.
