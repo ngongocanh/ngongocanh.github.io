@@ -17,8 +17,9 @@ Education
 
 Work experience
 ======
-* July 2025-present: Ministerial Counsellor (Economic Analyst), Ministry of Industry and Trade 
+* July 2025-present: Ministerial Officer (Economic Analyst), Ministry of Industry and Trade 
   * Analysing the Czech industry using firm-level data
+  * Automation of data manipulation and the related workflow
   * Preparing materials for further use within the Ministry
 
 * March 2025-present: Junior Researcher, VSB - Technical University of Ostrava
@@ -55,6 +56,6 @@ Internships
 
 Skills
 ======
-* Programming: R, Stata, Python, VBA
+* Programming: R, Stata, Python, VBA, Power Query
 * IT: Microsoft Office, Adobe Creative Suite
 
