@@ -1,0 +1,13 @@
+---
+title: "Credit Shocks Fade, Output Shocks Persist: A Meta-Analysis of 2,600 VAR Estimates Across 63 Countries"
+collection: publications
+category: manuscripts
+permalink: /publication/creditbusiness
+excerpt: 'In this paper, we meta-analyze 2629 VAR-based estimates from 68 studies covering 63 countries and samples from 1861–2019. Credit shocks raise output mainly in the short run, while output shocks generate persistent credit responses.'
+date: 2026-08-02
+venue: 'Journal of International Money and Finance'
+paperurl: 'https://doi.org/10.1016/j.jimonfin.2026.103631'
+citation: 'Janků, J., Malovaná, S., Bajzík, J., Moravcová, K. and Ngo, N.A., 2026. Credit shocks fade, output shocks persist: A meta-analysis of 2600 VAR estimates across 63 countries. Journal of International Money and Finance, p.103631.'
+---
+
+Credit cycles have become longer and more pronounced since the mid-1980s, often amplifying business cycle downturns. While many studies examine the interplay between credit and output, they reach differing conclusions about the magnitude and persistence of these effects. We conduct a meta-analysis of more than 2600 point estimates extracted from impulse response functions reported in 68 VAR-based studies across 63 countries. We document a clear directional persistence asymmetry: output reacts quickly but only temporarily to credit shocks, whereas credit responses to output shocks are larger and substantially more persistent, especially in advanced economies. Publication bias inflates reported effects, yet adjusted estimates remain positive overall, with larger and more persistent responses concentrated in the output-to-credit channel. We also document substantial heterogeneity, with stronger responses in European samples, studies of corporate credit, and models using Bayesian methods or sign restrictions. These findings provide a new benchmark for the typical dynamic relationship between credit and output and have implications for the design of monetary and macroprudential policy.
