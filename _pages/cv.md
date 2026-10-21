@@ -17,6 +17,9 @@ Education
 
 Work experience
 ======
+* October 2026-present: Researcher, Prague University of Economics and Business
+  * Independent research on selected topics within macro-finance
+ 
 * July 2025-present: Ministerial Officer (Economic Analyst), Ministry of Industry and Trade 
   * Analysing the Czech industry using firm-level data
   * Automation of data manipulation and the related workflow
